@@ -1,6 +1,6 @@
-# DeliveryApp
+# Uber Eat App
 
-
+## This App build with react native.
 ![Simulator Screen Shot - iPhone 14 - 2023-02-10 at 16 17 40](https://user-images.githubusercontent.com/55498680/218103378-3e19540a-c013-4389-9dd0-bf64ac112bf5.png)
 ![Simulator Screen Shot - iPhone 14 - 2023-02-10 at 16 17 47](https://user-images.githubusercontent.com/55498680/218103385-c2bc4c2f-cb24-42bf-9bff-8228245e06bc.png)
 ![Simulator Screen Shot - iPhone 14 - 2023-02-10 at 16 17 55](https://user-images.githubusercontent.com/55498680/218103390-445f6d82-0e4e-43d9-a047-6b5ed2304c73.png)
